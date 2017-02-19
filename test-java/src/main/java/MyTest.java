@@ -4,4 +4,8 @@ public class MyTest {
 		System.out.println("My Test");
 	}
 
+	
+	public void m1(){
+		System.out.println("M!!!!!!!");
+	}
 }
