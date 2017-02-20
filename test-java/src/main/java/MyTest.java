@@ -19,4 +19,8 @@ public class MyTest {
 	public void m6(){
 		System.out.println("M6!!!!!!!");
 	}
+	
+	public void m7(){
+		System.out.println("M7!!!!!!!");
+	}
 }	
