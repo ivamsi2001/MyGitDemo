@@ -5,7 +5,7 @@ public class MyTest {
 	}
 
 	public void m1() {
-		System.out.println("M1!!!!!!!");
+		System.out.println("M1 !!!!!!!");
 	}
 	
 	public void m2(){
