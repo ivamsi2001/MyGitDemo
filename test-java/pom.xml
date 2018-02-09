@@ -19,8 +19,7 @@
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-javadoc-plugin</artifactId>
 				<configuration>
-					<reportOutputDirectory>${project.basedir}</reportOutputDirectory>
-          			<destDir>docs</destDir>
+          			<destDir>${project.basedir}/../docs/</destDir>
 				</configuration>
 				<executions>
 					<execution>
